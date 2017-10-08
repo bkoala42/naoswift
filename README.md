@@ -1,6 +1,4 @@
-LAN-Scan
-========
-
-An iOS Local Area Network / wifi Scanner
-
-![](https://raw.github.com/mongizaidi/LAN-Scan/master/LAN%20Scan/screenshot.png)
+Thesis project by 
+Ilaria Gigi
+Università degli studi di Salerno - Italy
+2017-2018
